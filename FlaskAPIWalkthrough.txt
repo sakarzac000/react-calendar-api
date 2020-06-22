@@ -1,0 +1,12 @@
+Step 1:
+Set up virtual environment
+
+Step 2:
+Write boilerplate code
+Test to make sure server is running
+
+Step 3:
+Build your table classes and optionally your marshmallow classes
+
+Step 4:
+Build out your endpoints for each table
